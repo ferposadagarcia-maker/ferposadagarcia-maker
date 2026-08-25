@@ -51,9 +51,9 @@
 ### 🌐 **GlobaLance – Billetera Virtual Online** *(Proyecto Grupal)*
 Plataforma financiera y billetera virtual diseñada para freelancers y profesionales que buscan gestionar sus operaciones y transacciones en diversas divisas.
 * **Mi Rol:** *Frontend Developer & UX/UI Designer*.
-* Diseñé el flujo completo de usuario y el prototipado en Figma, manteniendo un enfoque limpio, accesible e intuitivo.
+* Diseñé el flujo completo de usuario, manteniendo un enfoque limpio, accesible e intuitivo.
 * Desarrollé componentes interactivos en el Frontend e integré la interfaz con la API Backend para el consumo de transacciones e información financiera en tiempo real.
-* 🛠️ **Tech:** React, TypeScript, Tailwind CSS, Figma, APIs REST, Git.
+* 🛠️ **Tech:** React, TypeScript, Tailwind CSS, APIs REST, Git.
 * 🔗 [Ver Repositorio en GitHub](https://github.com/Globallink-Studio/Frontend-Globalance.git)
 
 ---
@@ -63,7 +63,7 @@ Aplicación web e-commerce completa con un catálogo de productos elegante y min
 * **Mi Rol:** *Full Stack Developer*.
 * Diseñé y construí integralmente la interfaz, catálogo con filtrado dinámico, carrito de compras y flujo de pago.
 * Implementé el servidor y la arquitectura de base de datos para la gestión persistente de productos y usuarios.
-* 🛠️ **Tech:** React, Node.js, Express, PostgreSQL, Sequelize, APIs REST.
+* 🛠️ **Tech:** React, Node.js, Express, PostgreSQL, APIs REST.
 * 🔗 [Ver Repositorio en GitHub](https://github.com/ferposadagarcia-maker/Eccomerce-App.git)
 
 ---
@@ -73,7 +73,7 @@ Aplicación orientada a la productividad que facilita la organización diaria de
 * **Mi Rol:** *Creator & Developer*.
 * Diseñé e implementé una interfaz minimalista y libre de distracciones enfocada en una mejor usabilidad y experiencia de usuario.
 * Integré funcionalidades de notificación e email reminders para el seguimiento eficiente de actividades pendientes.
-* 🛠️ **Tech:** JavaScript, HTML5, CSS3, Node.js, Email Services.
+* 🛠️ **Tech:** JavaScript, HTML5, CSS3, Node.js, AWS Services.
 * 🔗 [Ver Repositorio en GitHub](https://github.com/ferposadagarcia-maker/MateCod-ToDo-App.git)
 
 ---
