@@ -54,7 +54,7 @@ Plataforma financiera y billetera virtual diseñada para freelancers y profesion
 * Diseñé el flujo completo de usuario, manteniendo un enfoque limpio, accesible e intuitivo.
 * Desarrollé componentes interactivos en el Frontend e integré la interfaz con la API Backend para el consumo de transacciones e información financiera en tiempo real.
 * 🛠️ **Tech:** React, TypeScript, Tailwind CSS, APIs REST, Git.
-* 🔗 [Ver Repositorio en GitHub](https://github.com/Globallink-Studio/Frontend-Globalance.git)
+* 🔗 [Ver Demo en Vercel](https://main-eta-jet.vercel.app/)
 
 ---
 
@@ -64,7 +64,7 @@ Aplicación web e-commerce completa con un catálogo de productos elegante y min
 * Diseñé y construí integralmente la interfaz, catálogo con filtrado dinámico, carrito de compras y flujo de pago.
 * Implementé el servidor y la arquitectura de base de datos para la gestión persistente de productos y usuarios.
 * 🛠️ **Tech:** React, Node.js, Express, PostgreSQL, APIs REST.
-* 🔗 [Ver Repositorio en GitHub](https://github.com/ferposadagarcia-maker/Eccomerce-App.git)
+* 🔗 [Ver Demo en Vercel](https://ecommerce-app-sage-sigma.vercel.app/)
 
 ---
 
@@ -74,7 +74,7 @@ Aplicación orientada a la productividad que facilita la organización diaria de
 * Diseñé e implementé una interfaz minimalista y libre de distracciones enfocada en una mejor usabilidad y experiencia de usuario.
 * Integré funcionalidades de notificación e email reminders para el seguimiento eficiente de actividades pendientes.
 * 🛠️ **Tech:** JavaScript, HTML5, CSS3, Node.js, AWS Services.
-* 🔗 [Ver Repositorio en GitHub](https://github.com/ferposadagarcia-maker/MateCod-ToDo-App.git)
+* 🔗 [Ver Demo en Vercel](https://mate-cod-to-do-app.vercel.app/login)
 
 ---
 
